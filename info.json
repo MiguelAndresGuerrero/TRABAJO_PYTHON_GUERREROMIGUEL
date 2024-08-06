@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "Tienda": "Panaderia",
+        "Productos": [
+            {
+                "id": 1,
+                "producto": "Pan de Bono",
+                "precio": "700 COP"
+            },
+            {
+                "id": 2,
+                "producto": "Pan de Queso",
+                "precio": "800 COP"
+            },
+            {
+                "id": 3,
+                "producto": "Pan Cascarita",
+                "precio": "500 COP"
+            },
+            {
+                "id": 4,
+                "producto": "Pan de Yuca",
+                "precio": "800 COP"
+            },
+            {
+                "id": 5,
+                "producto": "Calentano",
+                "precio": "700 COP"
+            },
+            {
+                "id": 6,
+                "producto": "Rollito de Sal",
+                "precio": "900 COP"
+            },
+            {
+                "id": 7,
+                "producto": "Pan relleno de Arequipe",
+                "precio": "1150 COP"
+            },
+            {
+                "id": 8,
+                "producto": "Pan con Salchicha",
+                "precio": "1300 COP"
+            },
+            {
+                "id": 9,
+                "producto": "Pan recubierto de chocolate",
+                "precio": "1200 COP"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "Tienda": "Pasteleria",
+        "Productos": [
+            {
+                "id": 1,
+                "producto": "Pastel de Vainilla",
+                "precio": "5000 COP"
+            },
+            {
+                "id": 2,
+                "producto": "Pastel de Chocolate",
+                "precio": "800 COP"
+            },
+            {
+                "id": 3,
+                "producto": "Pastel de bodas",
+                "precio": "500 COP"
+            },
+            {
+                "id": 4,
+                "producto": "Glaseado de Vainilla",
+                "precio": "3500 COP"
+            },
+            {
+                "id": 5,
+                "producto": "Glaseado de Chocolate",
+                "precio": "5700 COP"
+            },
+            {
+                "id": 6,
+                "producto": "Pastel de Arequipe",
+                "precio": "7000 COP"
+            },
+            {
+                "id": 7,
+                "producto": "Pastel de Oreo",
+                "precio": "4300 COP"
+            },
+            {
+                "id": 8,
+                "producto": "Postre de Vainilla",
+                "precio": "4000 COP"
+            },
+            {
+                "id": 9,
+                "producto": "Postre de Tres Leches",
+                "precio": "4500 COP"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "Tienda": "Bebidas",
+        "Productos": [
+            {
+                "id": 1,
+                "producto": "Pan de Bono",
+                "precio": "700 COP"
+            },
+            {
+                "id": 2,
+                "producto": "Pan de Queso",
+                "precio": "800 COP"
+            },
+            {
+                "id": 3,
+                "producto": "Pan Cascarita",
+                "precio": "500 COP"
+            },
+            {
+                "id": 4,
+                "producto": "Pan de Yuca",
+                "precio": "800 COP"
+            },
+            {
+                "id": 5,
+                "producto": "Calentano",
+                "precio": "700 COP"
+            },
+            {
+                "id": 6,
+                "producto": "Rollito de Sal",
+                "precio": "900 COP"
+            },
+            {
+                "id": 7,
+                "producto": "Pan relleno de Arequipe",
+                "precio": "1150 COP"
+            },
+            {
+                "id": 8,
+                "producto": "Pan con Salchicha",
+                "precio": "1300 COP"
+            },
+            {
+                "id": 9,
+                "producto": "Pan recubierto de chocolate",
+                "precio": "1200 COP"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "Tienda": "Promociones",
+        "Productos": [
+            {
+                "id": 1,
+                "producto": "Pan de Bono",
+                "precio": "700 COP"
+            },
+            {
+                "id": 2,
+                "producto": "Pan de Queso",
+                "precio": "800 COP"
+            },
+            {
+                "id": 3,
+                "producto": "Pan Cascarita",
+                "precio": "500 COP"
+            },
+            {
+                "id": 4,
+                "producto": "Pan de Yuca",
+                "precio": "800 COP"
+            },
+            {
+                "id": 5,
+                "producto": "Calentano",
+                "precio": "700 COP"
+            },
+            {
+                "id": 6,
+                "producto": "Rollito de Sal",
+                "precio": "900 COP"
+            },
+            {
+                "id": 7,
+                "producto": "Pan relleno de Arequipe",
+                "precio": "1150 COP"
+            },
+            {
+                "id": 8,
+                "producto": "Pan con Salchicha",
+                "precio": "1300 COP"
+            },
+            {
+                "id": 9,
+                "producto": "Pan recubierto de chocolate",
+                "precio": "1200 COP"
+            }
+        ]
+    }
+]
