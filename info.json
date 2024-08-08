@@ -20,7 +20,7 @@
             },
             {
                 "id": 4,
-                "producto": "Pan de Yuca",
+                "producto": "Galletas Saltin",
                 "precio": "800 COP"
             },
             {
@@ -62,41 +62,46 @@
             {
                 "id": 2,
                 "producto": "Pastel de Chocolate",
-                "precio": "800 COP"
+                "precio": "5500 COP"
             },
             {
                 "id": 3,
                 "producto": "Pastel de bodas",
-                "precio": "500 COP"
+                "precio": "10000 COP"
             },
             {
                 "id": 4,
                 "producto": "Glaseado de Vainilla",
-                "precio": "3500 COP"
+                "precio": "3000 COP"
             },
             {
                 "id": 5,
                 "producto": "Glaseado de Chocolate",
-                "precio": "5700 COP"
+                "precio": "3500 COP"
             },
             {
                 "id": 6,
                 "producto": "Pastel de Arequipe",
-                "precio": "7000 COP"
+                "precio": "5700 COP"
             },
             {
                 "id": 7,
                 "producto": "Pastel de Oreo",
-                "precio": "4300 COP"
+                "precio": "7000 COP"
             },
             {
                 "id": 8,
-                "producto": "Postre de Vainilla",
-                "precio": "4000 COP"
+                "producto": "Postre de limon",
+                "precio": "4300 COP"
             },
             {
                 "id": 9,
-                "producto": "Postre de Tres Leches",
+                "producto": "Postre de vainilla",
+                "precio": "4000 COP"
+            },
+            {
+                "id": 10,
+                "producto": "Postre de tres leches",
                 "precio": "4500 COP"
             }
         ]
@@ -107,48 +112,53 @@
         "Productos": [
             {
                 "id": 1,
-                "producto": "Pan de Bono",
-                "precio": "700 COP"
+                "producto": "Coca-Cola",
+                "precio": "3000 COP"
             },
             {
                 "id": 2,
-                "producto": "Pan de Queso",
-                "precio": "800 COP"
+                "producto": "Pepsi",
+                "precio": "2900 COP"
             },
             {
                 "id": 3,
-                "producto": "Pan Cascarita",
-                "precio": "500 COP"
+                "producto": "Red-Bull",
+                "precio": "4000 COP"
             },
             {
                 "id": 4,
-                "producto": "Pan de Yuca",
-                "precio": "800 COP"
+                "producto": "Gatorade",
+                "precio": "3700 COP"
             },
             {
                 "id": 5,
-                "producto": "Calentano",
-                "precio": "700 COP"
+                "producto": "Budweiser",
+                "precio": "3200 COP"
             },
             {
                 "id": 6,
-                "producto": "Rollito de Sal",
-                "precio": "900 COP"
+                "producto": "Hit",
+                "precio": "2500 COP"
             },
             {
                 "id": 7,
-                "producto": "Pan relleno de Arequipe",
-                "precio": "1150 COP"
+                "producto": "Pony-Malta",
+                "precio": "2300 COP"
             },
             {
                 "id": 8,
-                "producto": "Pan con Salchicha",
-                "precio": "1300 COP"
+                "producto": "Sprite",
+                "precio": "3200 COP"
             },
             {
                 "id": 9,
-                "producto": "Pan recubierto de chocolate",
-                "precio": "1200 COP"
+                "producto": "Monster",
+                "precio": "3000 COP"
+            },
+            {
+                "id": 10,
+                "producto": "Tropicana",
+                "precio": "2400 COP"
             }
         ]
     },
@@ -158,48 +168,43 @@
         "Productos": [
             {
                 "id": 1,
-                "producto": "Pan de Bono",
-                "precio": "700 COP"
+                "producto": "1 pan con salchicha y 1 Pony malta",
+                "precio": "3000 COP"
             },
             {
                 "id": 2,
-                "producto": "Pan de Queso",
-                "precio": "800 COP"
+                "producto": "1 Postre de oreo y 1 Budweiser",
+                "precio": "9000 COP"
             },
             {
                 "id": 3,
-                "producto": "Pan Cascarita",
-                "precio": "500 COP"
+                "producto": "6 Panes Integrales",
+                "precio": "4000 COP"
             },
             {
                 "id": 4,
-                "producto": "Pan de Yuca",
-                "precio": "800 COP"
+                "producto": "5 Panes cubiertos de chocolate",
+                "precio": "5500 COP"
             },
             {
                 "id": 5,
-                "producto": "Calentano",
-                "precio": "700 COP"
+                "producto": "3 Pasteles de Vainilla",
+                "precio": "13000 COP"
             },
             {
                 "id": 6,
-                "producto": "Rollito de Sal",
-                "precio": "900 COP"
+                "producto": "4 Postres de Oreo",
+                "precio": "25000 COP"
             },
             {
                 "id": 7,
-                "producto": "Pan relleno de Arequipe",
-                "precio": "1150 COP"
+                "producto": "1 pan con salchicha y 1 Pony malta",
+                "precio": "3000 COP"
             },
             {
                 "id": 8,
-                "producto": "Pan con Salchicha",
-                "precio": "1300 COP"
-            },
-            {
-                "id": 9,
-                "producto": "Pan recubierto de chocolate",
-                "precio": "1200 COP"
+                "producto": "1 Postre de oreo y 1 Budweiser",
+                "precio": "9000 COP"
             }
         ]
     }
