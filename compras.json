@@ -3,5 +3,10 @@
         "producto": "Pan recubierto de chocolate",
         "precio": "1200 COP",
         "fecha": "2024-08-08 08:46:42"
+    },
+    {
+        "producto": "Pan con Salchicha",
+        "precio": "1300 COP",
+        "fecha": "2024-08-08 11:54:46"
     }
 ]

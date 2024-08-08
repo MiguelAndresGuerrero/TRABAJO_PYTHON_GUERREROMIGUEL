@@ -63,7 +63,13 @@ def productos(grupo):
 
 #menu de modificacion del producto
 def modificar_producto(grupo):
-    productos_id = int(input("Ingrese el ID del producto que desea modificar: "))
+    try:
+        productos_id = int(input("Ingrese el ID del producto que desea modificar: "))
+    
+    except:
+        print("Opcion no valida")
+        return
+    
     for producto in grupo["Productos"]:
         if producto["id"] == productos_id:
             opcion = int(input("""
