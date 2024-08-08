@@ -160,7 +160,8 @@ def generar_informe():
     print("============================")
     for compra in compras:
         print(f"Producto: {compra['producto']}, Precio: {compra['precio']}, Fecha: {compra['fecha']}")
-        # Extraer solo el número del precio y convertirlo a entero
+
+# Extraer solo el número del precio y convertimos a entero
         precio_numerico = int(compra['precio'].split()[0])
         total_ingresos += precio_numerico
     print("============================")
