@@ -122,11 +122,10 @@ def menu_cliente(data):
         elif opcion == "3":
             print("Gracias por usar el programa")
             break
-        
         else:
             print("Opción inválida.")
-
-
+    
+#menu del moderador
 def menu_moderador(data):
     while True:
         print("............................")
