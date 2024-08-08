@@ -26,7 +26,7 @@ def cargarCompras():
 compras = cargarCompras()
 
 #Bienvenida al usuario
-Name = input("Bienvenido usuario, ¿cuál es tu nombre? ")
+Name = input("Bienvenido usuario, ¿Como te llamas? ")
 print("Bienvenido Usuario", Name)
 
 #Login de 3 tipos de Usuarios
@@ -75,13 +75,13 @@ def modificar_producto(grupo):
                 producto["producto"] = input("Nuevo nombre del producto: ")
             elif opcion == 2:
                 producto["precio"] = input("Nuevo precio del producto: ")
-            else:
+            elif opcion == 0:
                 print("Opción inválida.")
                 return
             guardarArchivo(data)
             print("Cambio realizado.")
             return
-    print("No se encontró ningún producto con ese ID.")
+    print("No se encontró ningún producto con ese ID")
 
 
 def comprar_producto(data):
@@ -126,7 +126,7 @@ def menu_cliente(data):
         else:
             print("Opción inválida.")
 
-
+#menu del moderador
 def menu_moderador(data):
     while True:
         print("............................")
@@ -214,6 +214,6 @@ elif Rango == 2:
 elif Rango == 3:
     menu_propietario(data)
 else:
-    print("Opción de acceso inválida.")
+    print("Opción de acceso inválida")
 
 #Creado por Miguel Guerrero C.C 1090381839
