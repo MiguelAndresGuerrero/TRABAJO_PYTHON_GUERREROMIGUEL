@@ -1,7 +1,7 @@
 ### Trabajo_PYTHON_GUERREROMIGUEL
 - En este trabajo se realizo una tienda funcional con 3 roles funcionales y funciones especiales para cada rol ya sea el usuario, el administrador o el propietario
 ### Funcionaminato
-- Es simple se generara un menu diferente para cada usuario permitiendo realizar tareas unicas y tambien permisos para cada rol distimto
+- Se generara un menu diferente para cada usuario permitiendo realizar tareas unicas y tambien permisos para cada rol distimto
 - Este proyecto cuenta con la funcion de poder almacenar las compras realizadas por el cliente y mostrarlas solo al propietario
 
 ### Descripción
